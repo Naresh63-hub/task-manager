@@ -1,0 +1,28 @@
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+*.iml
+.idea/
+*.iws
+*.ipr
+
+# Spring Boot
+application-local.properties
+
+# Maven
+.mvn/
+mvnw
+mvnw.cmd
+
+# IDE
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+# Java / Maven
+backend/target/
+*.class
+
+# Node / React
+frontend/node_modules/
+frontend/build/
+frontend/dist/
+
+# Environment / secrets
+.env
+*.env
+
+# Temporary files
+app-inspect.jar
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Tool-generated files
+.freebuff/
