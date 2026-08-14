@@ -406,21 +406,6 @@ spring.datasource.password=${DB_PASSWORD:rootpassword}
 # JPA/Hibernate Configuration
 spring.jpa.hibernate.ddl-auto=update
 spring.jpa.show-sql=true
-```
-
-## 📸 Screenshots
-
-### Frontend Dashboard
-![Dashboard](docs/screenshots/dashboard.png)
-
-### Task Form
-![Task Form](docs/screenshots/task-form.png)
-
-### Task List
-![Task List](docs/screenshots/task-list.png)
-
-### Swagger UI
-![Swagger](docs/screenshots/swagger.png)
 
 ## 🔒 Security Considerations
 
@@ -467,9 +452,7 @@ This project is created for educational purposes as part of a Java Programming i
 
 ## 👥 Author
 
-Built as part of the Java Programming Internship Project - Task 3: Full-Stack Java App (React)
-
-## 🙏 Acknowledgments
+Built as part of the Java Programming Internship Project - ## 🙏 Acknowledgments
 
 - Spring Boot team for the excellent framework
 - React team for the amazing UI library
